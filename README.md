@@ -49,6 +49,12 @@
 <a href="https://www.oracle.com/kr/"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&amp;logo=Oracle&amp;logoColor=white"></a>
 <br />
 <a href="https://www.ibm.com/kr-ko"><img src="https://img.shields.io/badge/UNIX-000000?style=flat-square&amp;logoColor=white"></a>
-<a href="https://www.centos.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logoColor=red"></a>
+<a href="https://www.centos.org/"><img src="https://img.shields.io/badge/Linux-E53525?style=flat-square&amp;logoColor=red"></a>
 <a href="https://www.microsoft.com/ko-kr/"><img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&amp;logo=Windows&amp;logoColor=white"></a>
+<br />
+<a href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&amp;logo=Apache&amp;logoColor=white"></a>
+<a href="https://tomcat.apache.org/"><img src="https://img.shields.io/badge/Tomcat-F78D0A?style=flat-square&amp;logo=Apache Tomcat&amp;logoColor=white"></a>
+<a href="http://www.opennaru.com/redhat/jboss/"><img src="https://img.shields.io/badge/Jboss-D22128?style=flat-square&amp;logoColor=white"></a>
+<a href="https://www.oracle.com/kr/java/weblogic/"><img src="https://img.shields.io/badge/WebLogic-F78D0A?style=flat-square&amp;logoColor=white"></a>
+<a href="https://www.tmax.co.kr/"><img src="https://img.shields.io/badge/Tmax-026CDF?style=flat-square&amp;logoColor=white"></a>
 
