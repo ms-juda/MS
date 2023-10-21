@@ -234,8 +234,8 @@
 >
 > - 새올행정시스템 연계 모듈 개발
 > <img alt="nhis" src="https://github.com/ms-juda/MS/blob/main/resources/nhis/nhis.JPG?raw=true" />
->
-> ### **3. (주)누리텔레콤(누리플렉스)**
+
+### **3. (주)누리텔레콤(누리플렉스)**
 > **※대학 IPP 사업 연계 인턴사원**
 > **원격검침단말 관리 :**
 >
