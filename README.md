@@ -66,7 +66,7 @@
 > 
 > **빛고을국민안전체험관 :**
 > 
-> - URL : https://gjsafe119.or.kr/index.do
+> - URL : <a href="https://gjsafe119.or.kr/index.do" target="_blank">https://gjsafe119.or.kr/index.do</a>
 > 
 > - 예약시스템 개편, 설문시스템 개발, 정책에 따른 개인정보 처리, DB 마이그레이션
 > 
