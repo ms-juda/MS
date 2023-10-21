@@ -23,7 +23,7 @@
 > 
 > - 2010.03 ~ 2016.08 국립 목포대학교 컴퓨터공학 졸업(학사)
 > 
-> - 2017.03 ~ 2010.02 장흥 관산고등학교 졸업
+> - 2007.03 ~ 2010.02 장흥 관산고등학교 졸업
 > 
 > **경력 :**
 >
@@ -210,6 +210,7 @@
 > - 행정안전부 주관 '일하는 방식 혁신사례' 전국 3위
 >
 > - '공공 빅데이터 우수사례 경진대회' 대상
+> <img alt="highway" src="https://github.com/ms-juda/MS/blob/main/resources/firesafe/highway.jpg?raw=true" />
 >
 > **긴급구조표준시스템 GIS 고도화 :**
 >
@@ -218,19 +219,22 @@
 > - 지령서버간 데이터 조회 서비스 개발
 >
 > - 경남소방본부, 부산소방본부 납품
->
+> <img alt="gis" src="https://github.com/ms-juda/MS/blob/main/resources/firesafe/gis.jpg?raw=true" />
+> 
 > **지령서버 모니터링 시스템 :**
 >
 > - TMAX 관리자 명령어 인터페이스화
 >
 > - 고스트 세션 자동 체크 및 라이센스 관리
->
+> <img alt="tmax" src="https://github.com/ms-juda/MS/blob/main/resources/firesafe/tmax.jpg?raw=true" />
+> 
 > **무인민원발급서비스 :**
 >
 > - 무인민원단말 연계 서비스 개발 및 암호화
 >
 > - 새올행정시스템 연계 모듈 개발
-> <img alt="nhis" src="https://github.com/ms-juda/MS/blob/main/resources/nhis/nhis.jpg?raw=true" />
+> <img alt="nhis" src="https://github.com/ms-juda/MS/blob/main/resources/nhis/nhis.JPG?raw=true" />
+>
 > ### **3. (주)누리텔레콤(누리플렉스)**
 > **※대학 IPP 사업 연계 인턴사원**
 > **원격검침단말 관리 :**
